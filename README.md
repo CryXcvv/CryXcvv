@@ -5,20 +5,20 @@
   <img src="https://img.shields.io/badge/From-Aceh,%20Indonesia-red?style=for-the-badge" alt="Location">
 </p>
 
-Selamat datang di profil GitHub saya. Saya seorang Developer dan Tech Enthusiast yang berbasis di Pidie Jaya, Aceh, Indonesia. Saya berfokus pada pengembangan web dan alat otomatisasi digital.
+Welcome to my GitHub profile. I am a Developer and Tech Enthusiast based in Pidie Jaya, Aceh, Indonesia. I focus on web development and digital automation tools.
 
 ---
 
-### Tentang Saya
+### About Me
 
-* **Nama:** Abrar Alhafizi
-* **Asal:** Pidie Jaya, Aceh, Indonesia
-* **Tanggal Lahir:** 25 November 2009
-* **Website Portofolio:** [abrur.netlify.app](https://abrur.netlify.app/)
+* **Name:** Abrar Alhafizi
+* **Location:** Pidie Jaya, Aceh, Indonesia
+* **Date of Birth:** November 25, 2009
+* **Portfolio Website:** [abrur.netlify.app](https://abrur.netlify.app/)
 
 ---
 
-### Skills dan Tech Stack
+### Skills and Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -31,14 +31,14 @@ Selamat datang di profil GitHub saya. Saya seorang Developer dan Tech Enthusiast
 
 ---
 
-### Spesifikasi Perangkat
+### Hardware Setup
 
 * **Laptop:** Asus Vivobook Go 14 E1404fa
 * **Smartphone:** Infinix Hot 60 Pro+ & Infinix Hot 20s
 
 ---
 
-### Hubungi Saya
+### Connect with Me
 
 <p align="left">
   <a href="https://instagram.com/abrurcamus" target="_blank">
